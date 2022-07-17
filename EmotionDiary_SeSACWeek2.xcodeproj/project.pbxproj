@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC0ADF5E2882914800FF2511 /* AnniversaryDiaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0ADF5D2882914800FF2511 /* AnniversaryDiaryViewController.swift */; };
 		ACC7A42428814AF00025488B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC7A42328814AF00025488B /* AppDelegate.swift */; };
 		ACC7A42628814AF00025488B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC7A42528814AF00025488B /* SceneDelegate.swift */; };
 		ACC7A42828814AF00025488B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC7A42728814AF00025488B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC0ADF5D2882914800FF2511 /* AnniversaryDiaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnniversaryDiaryViewController.swift; sourceTree = "<group>"; };
 		ACC7A42028814AF00025488B /* EmotionDiary_SeSACWeek2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmotionDiary_SeSACWeek2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACC7A42328814AF00025488B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACC7A42528814AF00025488B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				ACC7A42528814AF00025488B /* SceneDelegate.swift */,
 				ACC7A42728814AF00025488B /* ViewController.swift */,
 				ACC7A42928814AF00025488B /* Main.storyboard */,
+				AC0ADF5D2882914800FF2511 /* AnniversaryDiaryViewController.swift */,
 				ACC7A42C28814AF10025488B /* Assets.xcassets */,
 				ACC7A42E28814AF20025488B /* LaunchScreen.storyboard */,
 				ACC7A43128814AF20025488B /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACC7A42828814AF00025488B /* ViewController.swift in Sources */,
+				AC0ADF5E2882914800FF2511 /* AnniversaryDiaryViewController.swift in Sources */,
 				ACC7A42428814AF00025488B /* AppDelegate.swift in Sources */,
 				ACC7A42628814AF00025488B /* SceneDelegate.swift in Sources */,
 			);
